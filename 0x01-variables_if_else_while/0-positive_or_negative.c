@@ -2,8 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main - A program that determines if a number is positive, negative or zero
- * return: 0 (Success)
+ * main - A program that assigns random values to n
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
